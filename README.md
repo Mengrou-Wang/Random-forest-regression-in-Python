@@ -4,9 +4,9 @@ This project was originally completed as part of a team-based training program. 
 
 My Contributions
 
--Data cleaning and preprocessing
--Feature engineering
--Predictive modeling
--Model evaluation
--Business findings and recommendations
--Notebook documentation
+- Data cleaning and preprocessing
+- Feature engineering
+- Predictive modeling
+- Model evaluation
+- Business findings and recommendations
+- Notebook documentation
